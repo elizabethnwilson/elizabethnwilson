@@ -4,7 +4,7 @@ Hi, my name is Elizabeth. I'm a hobbyist developer applying my skills to create 
 I primarily work in Python with increasing experience in C++. I generally prefer compiled, statically typed languages like C++, but recognize the value of interpreted languages like Python for various projects. I mostly use object-oriented programming paradigms for application design.
 
 ## Current projects 📄✍️
-- Currently, I'm not working on anything, but I have plans to contribute to a few other GitHub repositories with my code from PyDiffeomorph.
+- Currently, I'm focusing on applying for jobs, but I have plans to contribute to a few other GitHub repositories with my code from PyDiffeomorph.
 
 ## Completed projects ✅
 - I created PyDiffeomorph, a Python implementation with GUI of Rhodri Cusack and Bobby Stojanoski's [diffeomorph](https://github.com/rhodricusack/diffeomorph) MATLAB script. My aim was to increase the accessibility of this script for use in both research settings and settings where MATLAB is not easily accessible. I also hoped to increase the robustness of the code.
